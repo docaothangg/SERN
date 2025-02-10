@@ -1,0 +1,5 @@
+//cấu hình cho compiler
+
+{
+    "presets": ["@babel/preset-env"]
+}
